@@ -15,7 +15,7 @@
 #include <unistd.h>
 #include <sys/ioctl.h>
 
-#include <error_exception.hpp>
+#include "error_exception.hpp"
 
 namespace arduino {
 
